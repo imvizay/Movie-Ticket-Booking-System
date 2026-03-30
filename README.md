@@ -4,12 +4,19 @@ The primary objective is to evolve from writing basic CRUD APIs to building a sy
 
 # Major Focus On - 
 1.Designing a real-world booking flow.
+
 2.Handling high concurrency seat booking.
+
 3.Preventing race conditions & double booking.
+
 4.Managing transactions & rollbacks.
+
 5.Implementing authentication & role-based access.
+
 6.Building secure and reliable APIs.
+
 7.Simulating failure scenarios (timeouts, payment failures, partial success).
+
 8.Writing clean, maintainable, and testable backend code.
 
 # Real world problems being solved
